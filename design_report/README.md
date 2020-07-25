@@ -17,11 +17,11 @@ In this stage, we firstly built the ***Personas*** of two typical users. Next, w
 ### Personas and Empathy Maps
 We built two personas for our users. We named these two users as Alice and Bob.  
 
-Alice is an active girl in university. However, as a senior student, she is facing pressure for seeking a job recently. The persona and empathy map of her is shown below. *(Tips: you can click the image to see the pictures in original size.)*
+Alice is an active girl in university. However, as a senior student, she is facing pressure for seeking a job recently. The persona and empathy map of her is shown below. *(Tips: you can click the image to see the pictures in original size)*
 [![the Persona of Alice](../day2/personas_and_empathy_maps/persona_of_alice.png)](../day2/personas_and_empathy_maps/persona_of_alice.png)  
 [![the Empathy Map of Alice](../day2/personas_and_empathy_maps/empathy_map_of_alice.png)](../day2/personas_and_empathy_maps/empathy_map_of_alice.png)  
 
-Bob is an introverted student. He suffered study pressure but don't want to talk with classmates. The persona and empathy map of him is shown below. *(Tips: you can click the image to see the pictures in original size.)*  
+Bob is an introverted student. He suffered study pressure but don't want to talk with classmates. The persona and empathy map of him is shown below. *(Tips: you can click the image to see the pictures in original size)*  
 [![the Persona of Bob](../day2/personas_and_empathy_maps/persona_of_bob.png)](../day2/personas_and_empathy_maps/persona_of_bob.png)  
 [![the Empathy Map of Bob](../day2/personas_and_empathy_maps/empathy_map_of_bob.png)](../day2/personas_and_empathy_maps/empathy_map_of_bob.png)  
 ### Interview
@@ -35,18 +35,45 @@ Most people would accept anonymous chatting because it is emotional supportive w
 Most people would love to listen to and support others who are in trouble. They usually help friends by indirect actions to relief their mood instead of talking directly to the cause of problem.  
 
 ### Affinity Map
-According to the personas and interview results, we built an affinity map to analyse the emotional fluctuation of our users. The affinity map is shown below. *(Tips: you can click the image to see the picture in original size.)*  
+According to the personas and interview results, we built an affinity map to analyse the emotional fluctuation of our users. The affinity map is shown below. *(Tips: you can click the image to see the picture in original size)*  
 [![Affinity Map](../day2/affinity_map.jpg)](../day2/affinity_map.jpg)  
 
-## Product Design
-Based on the analysis of our users, we decided to build a product called ***EmoChat***. College students can chat with their schoolmates who has the same or opposite feeling with them. 
+## Ideate
+In the ideate stage, we designed our product based on our previous user analysis. To begin with, we refined three ***user stories*** to illustrate why users should use our product. Next, we designed the ***sketches*** of UI. Finally, we designed the ***user flow*** to show our feature.  
+
+### User Story
+We refined three user stories to help us design the functions of our app.  
+These stories are:  
+
++ Alice needs to chat with someone who feel the same with her anonymously when she is depressed.
+![Story Board 1](../day3/storyboard_1.jpg)  
+
++ Bob wants this app offer some warming topics when he chats with someone for the first time and doesn't know what to say.  
+![Story Board 2](../day3/storyboard_2.jpg)  
+
++ Alice would love to share her happiness and help others in need. 
+![Story Board 3](../day3/storyboard_3.jpg)  
+
+From this stories, we can refine the basic functions of our app, chat, warm up and share.  
 
 ### Sketch
+Based on the refined stories, we can design the functions of our app. *(Tips: you can click the image to see the picture in original size)*   
+[![Functions](../day3/functions.png)](../day3/functions.png)  
 
+We drew the UI sketches of each function as the picture shows. *(Tips: you can click the image to see the picture in original size)*   
+[![Sketches](../day3/sketches.jpg)](../day3/sketches.jpg)  
+
+### User Flow
+We designed the user flow of each function to show the sequence of operation. *(Tips: you can click the images to see the pictures in original size)*    
+
+[![User Flow 1](../day3/flow_1.jpg)](../day3/flow_1.jpg)  
+
+[![User Flow 2](../day3/flow_2.jpg)](../day3/flow_2.jpg)  
+
+[![User Flow 3](../day3/flow_3.jpg)](../day3/flow_3.jpg)  
 
 ## Prototype Design
-We designed a ***paper prototype*** to illustrate the flow of our app. Paper prototype is a low-fidelity prototype.
-
+We designed a ***paper prototype*** to illustrate the flow of our app. Paper prototype is a low-fidelity prototype.  
 <video width="500" height="400" style="clear:both;display:block;margin:auto" preload="auto" controls>
 <source src="../day4/paper_prototype.mp4" type="video/mp4">
 <p>Your browser doesn't support HTML5 video. Here is a <a href="../day4/paper_prototype.mp4">link to the video</a> instead.</p>
