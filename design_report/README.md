@@ -9,11 +9,19 @@ EmoChat is an online chatting app based on emotions, it is designed for contempo
 ## Choose the Design Topic
 
 ## User Analysis
-
-### Persona
-
+From the discussion of our design topic above, we can conclude that the product is designed for college students. However, we can't design a good product without knowing our user thoroughly. Therefore, we should investigate our users' wants and needs during the stage called 
+*User Analysis*.  
+In this stage, we firstly built the *Personas* of two typical users. Next, we analysed their wants and needs to consturct *Empathy Maps*. Using personas and empathy maps enable us to learn more about our users, so we can design our product from the user's perspective. 
+### Personas and Empathy Maps
+![the Persona of Alice](../Day2/personas_and_empathy_maps/persona_of_alice.png)  
+![the Empathy Map of Alice](../Day2/personas_and_empathy_maps/empathy_map_of_alice.png)  
+![the Persona of Bob](../Day2/personas_and_empathy_maps/persona_of_bob.png)  
+![the Empathy Map of Bob](../Day2/personas_and_empathy_maps/empathy_map_of_bob.png)  
 ### Interview
-
+We interviewed 5 college students in SDU. The full results of each interview are accessible at [this page](../Day2/interview_results/). According to the interview, we can conclude that academic stress is the major cause of emotional fluctuation of college students. However, severe emotional fluctuation is not so frequent.  
+Depends on personality, most people choose to divert attention from the problems, but sometimes, they need other's help. Most people share emotions with schoolmates and family. And they are more likely to share positive emotions than negative ones. Students usually don't share their feelings to Psychological consultant.  
+Most people would accept anonymous chatting because it is emotional supportive while keeping their privacy. But there are some concerns that the other side won’t take them seriously.  
+Most people would love to listen to and support others who are in trouble. They usually help friends by indirect actions to relief their mood instead of talking directly to the cause of problem.  
 ## Product Design
 ### Sketch
 ### Paper Prototype
