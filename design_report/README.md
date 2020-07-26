@@ -1,6 +1,6 @@
 # The Design of EmoChat
 
-*EmoChat is an APP designed for campus students where they can chat anonymously based on their emotions. From this report, you can follow up the flow of design with us.*  
+*EmoChat is a mobile APP for campus students to chat anonymously based on their emotions. From this report, you can see the design flow of EmoChat with us developers and designers.*
 
 ## Introduction
 
@@ -8,12 +8,13 @@ EmoChat is an online chatting app based on emotions, it is designed for contempo
 
 ## Choose the Design Topic
 
-Our design topic is to design an APP for connecting people. From our discussion, our group member Li Min recalled her volunteer experience in psychological counseling room. We dicided to design an APP to connect university students by helping with their emotional needs, especially when they are experiencing psychological issues. 
-## User Analysis
-From the discussion of our design topic above, we can conclude that the product is designed for college students. However, we can't design a good product without knowing our user thoroughly. Therefore, we should investigate our users' wants and needs during the stage called 
-***User Analysis***.  
+Our design topic is designing an APP for connecting people together. We held a discussion for collecting ideas, in which Li Min, one of our group member, recalled on her volunteer experience in psychological counseling room and found that many students are not willing to face their mental and psychological problems. So we dicided to design an APP to connect university students by helping with their emotional needs, especially when they are experiencing psychological issues.
 
-In this stage, we firstly built the ***Personas*** of two typical users. Next, we analysed their wants and needs to consturct ***Empathy Maps***. Using personas and empathy maps enable us to learn more about our users, so we can design our product from the user's perspective. Moreover, we conduct ***interviews*** with 5 schoolmates to hear their psychology wants and needs. Based on the personas and interviews, we finally bulit an ***affinity map*** to summarize the users' wants and needs.
+## User Analysis
+After selecting our design topic, it is clear that the target user of our product is college students. Even though we are in our college time right now, we still have many blind spots about our users. And one cannot design a good product without knowing the users thoroughly. Therefore, we investigated our users, got to know the reason to their emotional fluctuation, what they want and need, what they are concerned about, which can be interpreted as our ***User Analysis***.  
+
+In this stage, we first creat the ***Personas*** of two typical users, Alice and Bob. Next, we analysed their wants and needs to consturct ***Empathy Maps*** respectively. Using the personas and empathy maps,we managed to learn more about our users, and design EmoChat more suitable for university students. Moreover, we conduct 5 ***interviews*** with 5 of our schoolmates respectively to learn their perspectives about dealing with psychological issues and our APP. Based on the personas and interview results, we finally bulit an ***affinity map*** to summarize the users' wants and needs.
+
 ### Personas and Empathy Maps
 We built two personas for our users. We named these two users as Alice and Bob.  
 
@@ -25,7 +26,7 @@ Bob is an introverted student. He suffered study pressure but don't want to talk
 [![the Persona of Bob](../day2/personas_and_empathy_maps/persona_of_bob.png)](../day2/personas_and_empathy_maps/persona_of_bob.png)  
 [![the Empathy Map of Bob](../day2/personas_and_empathy_maps/empathy_map_of_bob.png)](../day2/personas_and_empathy_maps/empathy_map_of_bob.png)  
 ### Interview
-To understand the users better, we designed [this questionnaire](../day2/questionnaire.pdf). We interviewed 5 college students in SDU. The full results of each interview are accessible at [this page](../day2/interview_results/).   
+To understand the users better, we designed [*this questionnaire*](../day2/questionnaire.pdf). We interviewed 5 college students in SDU. The full results of each interview are accessible at [*this page*](../day2/interview_results/).
 
 According to the interview, we can conclude that academic stress is the major cause of emotional fluctuation of college students. However, severe emotional fluctuation is not so frequent.  
 Depends on personality, most people choose to divert attention from the problems, but sometimes, they need other's help. Most people share emotions with schoolmates and family. And they are more likely to share positive emotions than negative ones. Students usually don't share their feelings to Psychological consultant.  
